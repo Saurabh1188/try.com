@@ -1,0 +1,220 @@
+#topic{
+	background-image: url("https://www.techfunnel.com/wp-content/uploads/2017/12/7-Types-of-Hackers.jpg")
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+  
+  .topnav a {
+	float: left;
+	color: #f2f2f2;
+	font-family: cursive;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .topnav a:hover {
+	background-color: #bbb;
+	color: black;
+  }
+
+  .topnav-right {
+	float: right;
+  }
+
+#random {
+	color: rgb(255, 0, 0);
+	font-size: 75px;
+}
+
+#topic_1 {
+	color: rgb(255, 166, 0);
+	font-size: 50px;
+}
+
+#topic_2 {
+	color: rgb(255, 0, 0);
+	font-size: 50px;
+	text-align: center;
+}
+
+#topic_3 {
+	color: rgb(0, 255, 4);
+	font-size: 50px;
+	text-align: center;
+}
+
+#topic_4 {
+	color: rgb(0, 13, 255);
+	font-size: 50px;
+	text-align: center;
+}
+
+#p {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+}
+
+#osos {
+	border-style: unset;
+}
+
+#point {
+	text-align: left;
+	font-size: 10px;
+}
+
+.point2 {
+	text-align: center;
+	font-size: 10px;
+}
+
+#k {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	text-align: center;
+}
+
+#what {
+	background-color: black;
+	color: rgb(255, 255, 255);
+} 
+
+#phishing {
+	background-color: rgb(8, 0, 255);
+} 
+
+#security_best_practices {
+	background-color: rgb(21, 255, 0);
+} 
+
+#a1 {
+	text-align: center;
+}
+
+#a2 {
+	text-align: center;
+	font-size: large;
+}
+
+#a3 {
+	text-align: center;
+	font-size: large;
+}
+
+#a4 {
+	text-align: center;
+	font-size: large;
+}
+
+#a5 {
+	text-align: center;
+	font-size: large;
+}
+
+#a6 {
+	text-align: center;
+	font-size: large;
+}
+
+#step {
+	text-align: center;
+}
+
+#step1 {
+	text-align: center;
+	font-size: large;
+}
+
+#step2 {
+	text-align: center;
+	font-size: large;
+}
+
+#step3 {
+	text-align: center;
+	font-size: large;
+}
+
+#step4 {
+	text-align: center;
+	font-size: large;
+}
+
+#step5 {
+	text-align: center;
+	font-size: large;
+}
+
+#a {
+	text-align: center;
+	font-size: large;
+}
+
+#b {
+	text-align: center;
+	font-size: large;
+}
+
+#c {
+	text-align: center;
+	font-size: large;
+}
+
+#d {
+	text-align: center;
+	font-size: large;
+}
+
+#e {
+	text-align: center;
+	font-size: large;
+}
+
+#f {
+	text-align: center;
+	font-size: large;
+}
+
+#g {
+	text-align: center;
+	font-size: large;
+}
+
+#h {
+	text-align: center;
+	font-size: large;
+}
+
+#i {
+	text-align: center;
+	font-size: large;
+}
+
+#j {
+	text-align: center;
+	font-size: large;
+}
+
+#k {
+	text-align: center;
+	font-size: large;
+	color: black;
+}
+
+#l {
+	text-align: center;
+	font-size: large;
+}
+
+#Aspects {
+	background-color: rgb(204, 0, 255);	
+}
